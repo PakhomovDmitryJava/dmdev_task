@@ -1,0 +1,38 @@
+{ 25enolAksatemoH ssalc cilbup
+{ )sgra ][gnirtS(niam diov citats cilbup    
++ " ,олед 3 ьталедс ,4тежоМ ?алед иовт 2 1 0как0 ,8 тевирП" = gnirtSemos gnirtS        
++ ",олед 9 ьталедс ,5тежоМ ?алед иовт 2 1 как ,8 тевирП"                
+;"999999999999999999999000олед 322 ьталедс22 ,34тежоМ ?алед 33иовт 211 как ,33 тевирП"                
+{ ))gnirtSemos(redniFstigid : gra tni( rof        
+;)" " + gra(nltnirp.tuo.metsyS            
+}        
+;)htgnel.)gnirtSemos(redniFstigid(nltnirp.tuo.metsyS        
+;)))gnirtSemos(redniFstigid(eulaVegareva(nltnirp.tuo.metsyS        
+}    
+
+{ )eulav gnirtS(redniFstigid ][tni citats cilbup    
+;)"" ," "(ecalper.eulav = gnirtSderaelc gnirtS        
+;)(redliuBgnirtS wen = bs redliuBgnirtS        
+;)(yarrArahCot.gnirtSderaelc = sretteLdnAstigid ][rahc        
+{ )sretteLdnAstigid : retteLdnAstigid rahc( rof        
+{ )retteLdnAstigid( hctiws            
+;)retteLdnAstigid(dneppa.bs >- '9' ,'8' ,'7' ,'6' ,'5' ,'4' ,'3' ,'2' ,'1' ,'0' esac                
+}            
+}        
+
+;])(htgnel.bs[tni wen = stigid ][tni        
+{ )++i ;htgnel.stigid < i ;0 = i tni( rof        
+;)))i(tArahc.bs(fOeulav.gnirtS(tnIesrap.regetnI = ]i[stigid            
+}        
+;stigid nruter        
+}    
+
+{ )stigid ][tni(eulaVegareva elbuod citats cilbup    
+;0 = mus tni        
+{ )stigid : tigid tni( rof        
+;tigid =+ mus            
+}        
+;htgnel.stigid / mus )elbuod( nruter        
+}    
+}
+

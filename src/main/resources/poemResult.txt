@@ -1,0 +1,60 @@
+Letter а - 58 times
+
+Letter б - 16 times
+
+Letter в - 25 times
+
+Letter г - 8 times
+
+Letter д - 35 times
+
+Letter е - 51 times
+
+Letter ж - 4 times
+
+Letter з - 17 times
+
+Letter и - 45 times
+
+Letter й - 19 times
+
+Letter к - 23 times
+
+Letter л - 26 times
+
+Letter м - 33 times
+
+Letter н - 41 times
+
+Letter о - 58 times
+
+Letter п - 16 times
+
+Letter р - 36 times
+
+Letter с - 28 times
+
+Letter т - 46 times
+
+Letter у - 24 times
+
+Letter х - 17 times
+
+Letter ц - 7 times
+
+Letter ч - 10 times
+
+Letter ш - 2 times
+
+Letter щ - 1 times
+
+Letter ы - 17 times
+
+Letter ь - 9 times
+
+Letter ю - 3 times
+
+Letter я - 15 times
+
+Letter ё - 11 times
+
