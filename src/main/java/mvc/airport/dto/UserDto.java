@@ -5,9 +5,7 @@ import lombok.Value;
 
 @Value
 @Builder
-public class FlightDto {
-
+public class UserDto {
     Long id;
-    String description;
-
+    String mail;
 }
